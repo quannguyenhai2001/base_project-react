@@ -38,7 +38,8 @@
   "lint-staged": {
     "src/**/*.{js,jsx,cjs,mjs,ts,tsx,cts,mts}": [
       "yarn lint",
-      "yarn prettier"
+      "yarn prettier",
+      "git add ."
     ]
   }
 }

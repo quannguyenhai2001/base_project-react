@@ -28,6 +28,7 @@ module.exports = {
         printWidth: 120,
         jsxSingleQuote: true
       }
-    ]
+    ],
+    "no-unused-vars": ["error", { "vars": "all" }]
   },
 }
