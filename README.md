@@ -1,6 +1,8 @@
 # Link Setup
 
-- Setup React Typescript với Vite & ESLint: [Link](https://duthanhduoc.com/blog/tao-du-an-react-vite-typescript-eslint)
+- Setup React Typescript and Vite & ESLint: [Link](https://duthanhduoc.com/blog/tao-du-an-react-vite-typescript-eslint)
+
+- Setup Husky with lint-staged & Commitlintrc: [Link](https://viblo.asia/p/nang-cao-chat-luong-code-va-hieu-qua-lam-viec-nhom-voi-husky-lint-staged-commitlint-4dbZNnMnZYM)
 
 # React + TypeScript + Vite
 
