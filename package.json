@@ -14,8 +14,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "i18next": "^23.10.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-i18next": "^14.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.2.0",
@@ -39,8 +41,8 @@
   },
   "lint-staged": {
     "src/**/*.{js,jsx,cjs,mjs,ts,tsx,cts,mts}": [
-      "yarn lint",
-      "yarn prettier",
+      "yarn lint:fix",
+      "yarn prettier:fix",
       "git add ."
     ]
   }

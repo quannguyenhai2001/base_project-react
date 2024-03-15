@@ -1,0 +1,20 @@
+{
+  "account": "Tài khoản",
+  "all": "Tất cả",
+  "appname": "Hệ thống quản lý Quan hệ khách hàng",
+  "assigning": "Đang phân việc",
+  "busy": "Máy bận",
+  "lead": {
+    "base": "Học sinh",
+    "code": "Mã học sinh",
+    "commune": "Phường/Xã",
+    "contactInfo": {
+      "address": "Địa chỉ người thân",
+      "email": "Email người thân",
+      "index": "Người thân",
+      "name": "Họ tên người thân",
+      "phone": "Điện thoại người thân",
+      "socialName": "Tên Facebook/Zalo người thân"
+    }
+  }
+}
