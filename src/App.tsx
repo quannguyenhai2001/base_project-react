@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <div>{t('lead.base')}</div>
+      <div>{t('component:button.add')}</div>
     </>
   )
 }

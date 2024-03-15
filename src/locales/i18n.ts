@@ -20,5 +20,5 @@ const resources = {
   }
 }
 
-i18next.use(initReactI18next).init({ resources })
+i18next.use(initReactI18next).init({ resources, lng: 'vi', fallbackLng: 'vi' })
 export default i18next
